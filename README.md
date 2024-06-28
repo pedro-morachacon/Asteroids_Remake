@@ -1,3 +1,4 @@
+![Asteroids Arcade Banner image: Asteroids JavaFX Remake](https://github.com/pedro-morachacon/Asteroids_Remake/blob/main/AsteroidsArcadeBanner.jpg?raw=true)
 # Asteroids JavaFX Remake
 
 **Project Team:**
